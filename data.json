@@ -1,0 +1,22 @@
+{
+    "794861742": [
+        {
+            "amount": 30303030.0,
+            "category": "opopop",
+            "type": "income",
+            "date": "2026-05-15 12:36"
+        },
+        {
+            "amount": 12.0,
+            "category": "salary",
+            "type": "income",
+            "date": "2026-05-19 19:56"
+        },
+        {
+            "amount": 3500.0,
+            "category": "food",
+            "type": "income",
+            "date": "2026-05-20 12:55"
+        }
+    ]
+}
