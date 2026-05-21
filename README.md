@@ -167,6 +167,7 @@ In future project can be improved with:
 - charts
 - better statistics
 - multi user system
+- аutomatic receipt scanning with OCR.
 - ai support ?
 
-Overall this was good beginner project for practicing Telegram bot development.
+Overall this wa good beginner project for practicing Telegram bot development.
